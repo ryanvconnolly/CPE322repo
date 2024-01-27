@@ -4,11 +4,11 @@
 
 *I really enjoy coding, and the first thing I ever coded was:* 
 
-"#include <iostream>
+	`#include <iostream>
 using namespace std;
 int main(){
   cout << "hello world" << endl;
-  }"
+  }`
 
 *in ENGR 116. It was the class that introduced me to coding, and I have loved it ever since!*
 
@@ -32,4 +32,4 @@ int main(){
 ---
 #### I look forward to having a great semester and meeting knew people!
 
-**This is my [LinkedIn Page](https://www.linkedin.com/in/ryanvconnolly/) to connect!** 
+This is my [LinkedIn Page](https://www.linkedin.com/in/ryanvconnolly/) to connect! 
