@@ -3,7 +3,13 @@
 **My name is Ryan Connolly. I am a 3/4+1 Computer Engineering major and Computer Science minor.**
 
 *I really enjoy coding, and the first thing I ever coded was:* 
-'cout << "hello world" << endl;'
+
+'#include <iostream>
+using namespace std;
+int main(){
+  cout << "hello world" << endl;
+  }'
+
 *in ENGR 116. It was the class that introduced me to coding, and I have loved it ever since!*
 
 ## 3 Things I Would Like to Accomplish This Semester:
