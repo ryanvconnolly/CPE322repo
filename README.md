@@ -5,10 +5,10 @@
 *I really enjoy coding, and the first thing I ever coded was:* 
 
 	`#include <iostream>
-using namespace std;
-int main(){
-  cout << "hello world" << endl;
-  }`
+ 	`using namespace std;
+	`int main(){
+  	`cout << "hello world" << endl;
+ 	 }`
 
 *in ENGR 116. It was the class that introduced me to coding, and I have loved it ever since!*
 
