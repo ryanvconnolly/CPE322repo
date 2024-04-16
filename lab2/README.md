@@ -24,44 +24,67 @@ Prints name of current directory.
 ## 5. git clone https:/github.com/kevinwlu/iot.git
 Clones repository from github into a new directory.
 
+![git](lab2git.png)
+
 
 
 ## 6. cd iot
 Changes current directory to iot.
 
+![iot](lab2iot.png)
+
 ## 7. ls
 Lists files inside directory.
+
+![ls](lab2ls.png)
 
 ## 8. cd
 Changes to home directory.
 
+![cd](lab2cd.png)
+
 ## 9. df
 Displays info about total space and available space on the file system.
 
+![df](lab2df.png)
+
 
 ## 10. mkdir demo
-Creates directory demo. 
+Creates directory demo. No changes shown in terminal.
 
-11. cd demo
+## 11. cd demo
+Changes current directory to demo.
 
-12. nano file
+## 12. nano file
+OPens a text editor to edit the file "file."
 
-13. cat file
+## 13. cat file
+Prints the information in "file."
 
-14. cp file file1
 
-15. mv file file2
+## 14. cp file file1
+Copies "file" into "file1."
 
-16. rm file2
+## 16. mv file file2
+Renames "file" to "file2."
 
-17. clear
+## 17. rm file2
+Removes "file2."
 
-18. man uname
+## 18. clear
+Clears the terminal.
 
-19. uname -a
+## 19. man uname
+Opens a manual within the terminal to use the command "uname."
 
-20. ifconfig
+## 20. uname -a
+Prints system info.
 
-21. ping localhost
+## 21. ifconfig
+Prints info about IP configuration.
 
-22. netstat
+## 22. ping localhost
+Sends ICMP echo request messages to another local computer.
+
+## 23. netstat
+Displays protocol statistics and current network connections. 
