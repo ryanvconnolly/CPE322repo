@@ -10,6 +10,8 @@ Prints the environment variables.
 
 ![env](lab2env.png)
 
+etc. 
+
 
 ## 3. ps
 Process status.
