@@ -20,7 +20,7 @@
 
 ### Vertical Box Plot of Memory
 
-![mem](lab8membox.png)
+![mem](lab8memorybox.png)
 
 ### Scatter Plot with Regression Line of CPU Usage
 
