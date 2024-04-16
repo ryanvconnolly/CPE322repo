@@ -8,13 +8,13 @@
 
 ![snake](lab10snake1.png)
 
-![snake](lan10snake2.png)
+![snake](lab10snake2.png)
 
 ---
 
 ## Snakecoin Server Mining
 
-![server](lab10server1.png)
+![server](lab10server.png)
 
 ![server](lab10server2.png)
 
