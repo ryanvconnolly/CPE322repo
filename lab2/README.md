@@ -101,10 +101,15 @@ Prints system info.
 ![uname](lab2uname.png)
 
 ## 21. ifconfig
-Prints info about IP configuration.
+Prints info about IP configuration. ifconfig not compatible with Windows. Used ipconfig in cmd prompt for same results. 
+
+![config](lab2ipconfig.png)
 
 ## 22. ping localhost
 Sends ICMP echo request messages to another local computer.
 
+![ping](lab2ping.png)
 ## 23. netstat
 Displays protocol statistics and current network connections. 
+
+![net](lab2netstat.png)
