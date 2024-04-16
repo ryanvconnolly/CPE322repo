@@ -1,19 +1,31 @@
 # CPE 322 Lab 8: Data Analysis
 
-## Data CSV
+# plt_final.py
 
-## plt_final.py
+### Time Series
 
-#### Time Series
+![time](lab8timeseries.png)
 
-#### Histogram CPU Usage
+### Histogram CPU Usage
 
-#### Histogram of Memory
+![cpu](lab8cpuhist.png)
 
-#### Horizontal Box Plot of CPU Usage
+### Histogram of Memory
 
-#### Vertical Box Plot of Temperature
+![mem](lab8memoryhist.png)
 
-#### Scatter Plot with Regression Line of CPU Usage
+### Horizontal Box Plot of CPU Usage
 
-## plt_cv2.py
+![cpu](lab8cpubox.png)
+
+### Vertical Box Plot of Memory
+
+![mem](lab8membox.png)
+
+### Scatter Plot with Regression Line of CPU Usage
+
+![scat](lab8scatter.png)
+
+# plt_cv2.py
+
+![l8](lab8g1.png)
