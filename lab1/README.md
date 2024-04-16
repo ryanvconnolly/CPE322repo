@@ -2,10 +2,10 @@
 ----------------------------------------------------------------------------------------------
 ## Hello World Test
 
-`ghdl -h
-ghdl -v
-ghdl -a hello.vhdl
-ghdl -e hello_world
+`ghdl -h <br>
+ghdl -v  <br>
+ghdl -a hello.vhdl  <br>
+ghdl -e hello_world  <br>
 ghdl -r hello_world`
 
 ![Hello World Image](ghdl.helloworld.png)
