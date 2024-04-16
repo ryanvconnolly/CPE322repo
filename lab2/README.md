@@ -57,32 +57,48 @@ Creates directory demo. No changes shown in terminal.
 ## 11. cd demo
 Changes current directory to demo.
 
-![demo](la2demo.png)
+![demo](lab2demo.png)
 
 ## 12. nano file
-OPens a text editor to edit the file "file."
+Opens a text editor to edit the file "file."
+
+![nan](lab2nano.png)
 
 ## 13. cat file
 Prints the information in "file."
+
+![cat](lab2cat.png)
 
 
 ## 14. cp file file1
 Copies "file" into "file1."
 
+![cp](lab2cp.png)
+
 ## 16. mv file file2
 Renames "file" to "file2."
+
+![mv](lab2mv.png)
 
 ## 17. rm file2
 Removes "file2."
 
+![rm](lab2rm.png)
+
 ## 18. clear
 Clears the terminal.
+
+![clear](lab2clear.png)
 
 ## 19. man uname
 Opens a manual within the terminal to use the command "uname."
 
+![man](lab2man.png)
+
 ## 20. uname -a
 Prints system info.
+
+![uname](lab2uname.png)
 
 ## 21. ifconfig
 Prints info about IP configuration.
