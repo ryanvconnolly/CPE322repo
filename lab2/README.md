@@ -33,7 +33,7 @@ Clones repository from github into a new directory.
 ## 6. cd iot
 Changes current directory to iot.
 
-![iot](lab2iot.png)
+![iot](lab2cdiot.png)
 
 ## 7. ls
 Lists files inside directory.
@@ -56,6 +56,8 @@ Creates directory demo. No changes shown in terminal.
 
 ## 11. cd demo
 Changes current directory to demo.
+
+![demo](la2demo.png)
 
 ## 12. nano file
 OPens a text editor to edit the file "file."
