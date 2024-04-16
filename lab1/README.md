@@ -15,6 +15,8 @@
 
 ### 1. Half Adder Example
 
+![adder](lab1adder.png)
+
 
 
 
@@ -22,7 +24,5 @@
 
 ### 2. D Flip-Flop
 
-
-
-### 3. 
+![flip](lab1flip.png)
 
