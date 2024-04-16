@@ -2,14 +2,19 @@
 
 ## hello_world.js
 
+![hello](lab6helloworld.png)
+
 
 ## hello.js
 
+![hello](lab6hello.png)
 
 ## http.js
+
+![http](lab6http.png)
 
 
 ## say_hello.py
 
+![hello](lab6sayhello.png)
 
-## say_hello.mustache
