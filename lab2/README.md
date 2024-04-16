@@ -96,7 +96,7 @@ Opens a manual within the terminal to use the command "uname."
 ![man](lab2man.png)
 
 ## 20. uname -a
-Prints system info.
+Prints all system info.
 
 ![uname](lab2uname.png)
 
