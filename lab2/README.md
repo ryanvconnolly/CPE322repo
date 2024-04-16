@@ -80,10 +80,10 @@ Renames "file" to "file2."
 
 ![mv](lab2mv.png)
 
-## 17. rm file2
-Removes "file2."
+You can see by my original spelling error that "file" no longer exists because its information has been moved to fil2. 
 
-![rm](lab2rm.png)
+## 17. rm file2
+Removes "file2." No change shown in terminal.
 
 ## 18. clear
 Clears the terminal.
