@@ -5,8 +5,3 @@
 ## Snakecoin Server Mining
 
 ## Python Blockchain App
-
-### Terminal
-
-
-### Webpages
