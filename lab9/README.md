@@ -2,4 +2,8 @@
 
 ## Terminal
 
+![term](lab9terminal.png)
+
 ## Output
+
+![lab9](lab9.png)
