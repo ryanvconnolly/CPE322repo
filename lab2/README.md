@@ -1,24 +1,46 @@
 # CPE 322 Lab 2: Command Line
 
-1. hostname
+## 1. hostname
+Prints the host name of the system being used.
 
-2. env
+![hostname](lab2hostname.png)
 
-3. ps
+## 2. env
+Prints the environment variables.
 
-4. pwd
+![env](lab2env.png)
 
-5. git clone https:/github.com/kevinwlu/iot.git
 
-6. cd iot
+## 3. ps
+Process status.
 
-7. ls
+![ps](lab2ps.png)
 
-8. cd
+## 4. pwd
+Prints name of current directory.
 
-9. df
+![pwd](lab2pwd.png)
 
-10. mkdir demo
+## 5. git clone https:/github.com/kevinwlu/iot.git
+Clones repository from github into a new directory.
+
+
+
+## 6. cd iot
+Changes current directory to iot.
+
+## 7. ls
+Lists files inside directory.
+
+## 8. cd
+Changes to home directory.
+
+## 9. df
+Displays info about total space and available space on the file system.
+
+
+## 10. mkdir demo
+Creates directory demo. 
 
 11. cd demo
 
